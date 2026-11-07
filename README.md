@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 AI & ML Student<br>📱 Android Developer<br>🤖 AI Enthusiast<br>⚛️ React & FastAPI Developer<br>🏆 Hackathon Finalist<br>🌱 Learning Docker • Kubernetes • AWS
+👨‍💻 AI & ML Student<br>📱 Android Developer<br>🤖 AI Enthusiast<br>⚛️ React & FastAPI Developer<br>🏆2* Hackathon 2nd Runner Up<br>🌱 Learning Docker • Kubernetes • AWS
 
 
 ## 🌐 Socials:
